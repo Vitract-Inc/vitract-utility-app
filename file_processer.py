@@ -63,7 +63,7 @@ def process_sample_files(source_folder, output_folder):
             print(f"Warning: Sample '{sample[:9]}' is missing one of the paired files; skipping.")
 
 
-date = '20250210'
+date = '2021-09-01'  # Change to your desired date
 
 source_folder = r'D:/VitractData/Laragen/' + date   # Change to your actual path
     # Define the folder where you want to store the new sample folders and ZIP files
